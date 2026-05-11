@@ -204,4 +204,7 @@ The cronless scheduler works correctly on:
 ---
 
 Your PHP_Laravel12_CronLess_Schedule Project is now ready!
+<<<<<<< HEAD
 
+=======
+>>>>>>> development
